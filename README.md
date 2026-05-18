@@ -16,10 +16,10 @@ Circuit :
 ---
 
 # Descirption
-A for Timer
-B for SmartDoor
-C to lock the SmartDoor
-D for sending the signal
+- A for Timer
+- B for SmartDoor
+- C to lock the SmartDoor
+- D for sending the signal
 
 And yeah you can edit what you want there
 
